@@ -27,7 +27,7 @@ const StyledSendButton = styled.button`
 `
 
 const StyledCampo = styled.input`
-  padding: 0 16px;
+  padding: 0 18px;
   outline-color: var(--cor-principal);
 `
 
